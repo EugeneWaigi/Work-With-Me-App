@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114693100641",
+    "project_id": "workwithme-79634",
+    "storage_bucket": "workwithme-79634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114693100641:android:5e3f251288a7a243900620",
+        "android_client_info": {
+          "package_name": "com.example.workwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114693100641-1urqe1o618tmu0hqd9dhdvv07onudka6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuL_DLM-T7pNEsBfZXIfOTw-EvHwtKwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114693100641-1urqe1o618tmu0hqd9dhdvv07onudka6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
